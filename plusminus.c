@@ -12,6 +12,8 @@ int main() {
 
 	if (calc == '+')
 		printf("Result is %d\n", a + b);
+	
+	printf("what");
 
 	return 0;
 }
